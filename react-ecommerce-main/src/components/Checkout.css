@@ -1,0 +1,33 @@
+.checkout{
+    color: #666;
+    font-size: 1.1rem;
+    width: 250px;
+
+  }
+
+.checkout h2 {
+    color: rgba(64, 182, 109, 0.651);
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+
+.checkout textarea{
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.checkout .checkoutButton{
+    display: block;
+    width: 100%;
+    font-size: 1.1rem;
+    color: #ffffff;
+    background-color: #0faa6280;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+      
+}
